@@ -54,3 +54,62 @@
 
 
 ### 最終更新日：2024,11/3
+
+
+
+# CYBER Dorokei privacy-policy
+
+This privacy policy explains how CYBER Dorokei (hereinafter referred to as “the Application”) handles the user's personal information when using the Application.
+
+## 1. information to be collected
+
+This Application collects the following information:
+
+### 1.1 Location information
+- Current location information of the user of this application.
+- Location information is used as a necessary function for gameplay
+- Location information will only be collected with your consent.
+
+### 1.2 Game data
+- Game progress
+- Play history
+- In-game activity
+
+## 2. Purpose of information use
+
+Information collected will be used for the following purposes
+
+- Providing basic game features
+- Conducting in-game events
+- Storing play progress
+- Provide game information via push notifications 
+
+## 3. push notifications
+
+This application may send push notifications in the following cases:
+
+- Notifications regarding game progress
+- Notification of event information
+- Notifications about chats during play
+
+Receiving push notifications can be disabled at any time via the device settings.
+
+## 4. information management
+
+Appropriate measures will be taken to ensure the security of the personal information of users of this application.
+
+## 5. provision to third parties
+
+We will not provide the personal information of the user of this application to any third party, except in the following cases
+
+- When there is the consent of the user of this application
+- When required by law
+- When it is necessary for the protection of a person's life, body, or property.
+
+## 6. Changes to this Privacy Policy
+
+The contents of this Privacy Policy may be changed without notice to the users of this application, except as otherwise provided by law or otherwise in this Privacy Policy. The modified Privacy Policy shall become effective from the time it is published on this site.
+
+
+
+### Last updated: 2024,11/3
